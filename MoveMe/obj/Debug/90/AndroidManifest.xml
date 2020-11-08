@@ -28,6 +28,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="MapActivity" android:name="crc64c0c87b2c8272fcbd.MapActivity" />
     <activity android:label="SignActivity" android:name="crc64c0c87b2c8272fcbd.SignActivity" />
     <service android:name="crc64396a3fe5f8138e3f.KeepAliveService" />
     <receiver android:enabled="true" android:exported="false" android:label="Essentials Battery Broadcast Receiver" android:name="crc64a0e0a82d0db9a07d.BatteryBroadcastReceiver" />

@@ -33,8 +33,5 @@ namespace MoveMe
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
-
-
-      
     }
 }

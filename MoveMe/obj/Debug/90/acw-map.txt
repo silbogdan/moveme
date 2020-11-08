@@ -4,6 +4,9 @@ moveme.LoginActivity;crc64c0c87b2c8272fcbd.LoginActivity
 MoveMe.MainActivity, MoveMe;crc64c0c87b2c8272fcbd.MainActivity
 MoveMe.MainActivity;crc64c0c87b2c8272fcbd.MainActivity
 moveme.MainActivity;crc64c0c87b2c8272fcbd.MainActivity
+MoveMe.MapActivity, MoveMe;crc64c0c87b2c8272fcbd.MapActivity
+MoveMe.MapActivity;crc64c0c87b2c8272fcbd.MapActivity
+moveme.MapActivity;crc64c0c87b2c8272fcbd.MapActivity
 MoveMe.SignActivity, MoveMe;crc64c0c87b2c8272fcbd.SignActivity
 MoveMe.SignActivity;crc64c0c87b2c8272fcbd.SignActivity
 moveme.SignActivity;crc64c0c87b2c8272fcbd.SignActivity

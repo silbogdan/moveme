@@ -58,7 +58,7 @@ namespace MoveMe
                 usernameEdit.Text = String.Empty;
                 passwordEdit.Text = String.Empty;
                 confirmPassEdit.Text = String.Empty;
-                StartActivity(typeof(LoginActivity));
+                StartActivity(typeof(MapActivity));
             } 
         }
     }

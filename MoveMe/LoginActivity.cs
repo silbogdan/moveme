@@ -43,8 +43,7 @@ namespace MoveMe
                 if (user != null && user.password == pwdEditLogin.Text)
                 {
                     // Go to map page
-                    //StartActivity(typeof(MapActivity));
-                    StartActivity(typeof(MainActivity));
+                    StartActivity(typeof(MapActivity));
                 } 
             }
 
