@@ -804,3 +804,5 @@ D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\android\src\mono\com\google\android\gms\ta
 D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnTokenCanceledListenerImplementor.java
 D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\res\layout\file_map.xml
 D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\android\src\crc64c0c87b2c8272fcbd\MapActivity.java
+D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\android\src\crc64c0c87b2c8272fcbd\AboutActivity.java
+D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\android\src\crc64c0c87b2c8272fcbd\ProfileActivity.java

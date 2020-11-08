@@ -21,6 +21,7 @@
     <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyAfTi6ypI2iah7aV_9akr0RN2Vg0DdYPhA" />
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <!-- Necessary for apps that target Android 9.0 or higher -->
+    <activity android:name="crc64c0c87b2c8272fcbd.AboutActivity" android:label="AboutActivity" />
     <activity android:name="crc64c0c87b2c8272fcbd.LoginActivity" android:label="LoginActivity" />
     <activity android:name="crc64c0c87b2c8272fcbd.MainActivity" android:label="@string/app_name" android:theme="@style/AppTheme">
       <intent-filter>
@@ -29,6 +30,7 @@
       </intent-filter>
     </activity>
     <activity android:name="crc64c0c87b2c8272fcbd.MapActivity" android:label="MapActivity" />
+    <activity android:name="crc64c0c87b2c8272fcbd.ProfileActivity" android:label="ProfileActivity" />
     <activity android:name="crc64c0c87b2c8272fcbd.SignActivity" android:label="SignActivity" />
     <service android:name="crc64396a3fe5f8138e3f.KeepAliveService" />
     <receiver android:name="crc64a0e0a82d0db9a07d.BatteryBroadcastReceiver" android:enabled="true" android:exported="false" android:label="Essentials Battery Broadcast Receiver" />

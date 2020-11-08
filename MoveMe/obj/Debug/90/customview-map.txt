@@ -14,6 +14,7 @@ color;obj\Debug\90\res\values\ic_launcher_background.xml
 com.google.android.gms.maps.MapFragment;obj\Debug\90\res\layout\file_map.xml
 com.google.android.gms.maps.SupportMapFragment;obj\Debug\90\res\layout\file_map.xml
 EditText;obj\Debug\90\res\layout\file_login.xml
+EditText;obj\Debug\90\res\layout\file_map.xml
 EditText;obj\Debug\90\res\layout\file_signup.xml
 external-cache-path;D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -32,6 +33,7 @@ item;obj\Debug\90\res\values\styles.xml
 LinearLayout;obj\Debug\90\res\layout\activity_main.xml
 LinearLayout;obj\Debug\90\res\layout\file_about.xml
 LinearLayout;obj\Debug\90\res\layout\file_login.xml
+LinearLayout;obj\Debug\90\res\layout\file_map.xml
 LinearLayout;obj\Debug\90\res\layout\file_profile.xml
 LinearLayout;obj\Debug\90\res\layout\file_signup.xml
 paths;D:\Xamarin\MoveMe\MoveMe\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -42,6 +44,7 @@ resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\ic_launcher_background.xml
 resources;obj\Debug\90\res\values\strings.xml
 resources;obj\Debug\90\res\values\styles.xml
+ScrollView;obj\Debug\90\res\layout\file_about.xml
 ScrollView;obj\Debug\90\res\layout\file_signup.xml
 string;obj\Debug\90\res\values\strings.xml
 style;obj\Debug\90\res\values\styles.xml
